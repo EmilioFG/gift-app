@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <Gif /> debe de hacer match con el snapchot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="zombie"
+      src="https://emiliogonzalez.dev"
+    />
+    <h6>
+      zombie
+    </h6>
+  </div>
+</div>
+`;
